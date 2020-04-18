@@ -1,0 +1,9 @@
+{
+    "@import":"../lib/models/user.dart",
+    "user":"$user", 
+    "token":"", 
+    "theme":5678, 
+    "cache":"$cacheConfig", 
+    "lastLogin":"", 
+    "locale":"" 
+  }
